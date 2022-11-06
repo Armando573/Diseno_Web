@@ -64,3 +64,6 @@ Este parrafo esta en negrita, subrayado y cursiva
 
 
 ![image](https://user-images.githubusercontent.com/61428623/200148692-99a12ebb-0e74-489c-9dc5-2617a0fd045c.png)
+![image](https://user-images.githubusercontent.com/61428623/200149190-cdb331ea-8180-404d-8d64-cc7c1b49a10b.png)
+![image](https://user-images.githubusercontent.com/61428623/200149200-9d27494b-bde3-4900-8836-e6a798753915.png)
+
