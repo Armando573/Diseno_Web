@@ -79,3 +79,4 @@
 
 ![image](https://user-images.githubusercontent.com/61428623/202874232-7e5522f9-a830-4d88-a64f-51e253fac003.png)
 
+[Tabla.zip](https://github.com/Armando573/Diseno_Web/files/10048196/Tabla.zip)
