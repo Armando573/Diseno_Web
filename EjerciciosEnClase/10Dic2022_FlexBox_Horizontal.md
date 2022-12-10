@@ -87,3 +87,6 @@ margin: 0;
 
 
 ![image](https://user-images.githubusercontent.com/61428623/206877384-ce829b0f-88b8-49ef-a9ce-b59e0a42ec7a.png)
+
+[FlexBox_Horizontal.zip](https://github.com/Armando573/Diseno_Web/files/10201043/FlexBox_Horizontal.zip)
+
