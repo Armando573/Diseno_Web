@@ -14,35 +14,35 @@
             <p>Logo</p>
             <ul>
                 <li>inicio</li>
-                <li>animacion_1</li>
-                <li>animacion_2</li>
-                <li>animacion_3</li>
-                <li>animacion_4</li>
-                <li>animacion_5</li>
+               <a href="#section1"> <li>animacion_1</li> </a>
+               <a href="#section2"> <li>animacion_2</li> </a>
+               <a href="#section3"> <li>animacion_3</li> </a>
+               <a href="#section4"> <li>animacion_4</li> </a>
+               <a href="#section5"> <li>animacion_5</li> </a>
             </ul>
         </nav>
         <h1>EFECTOS Y ANIMACIONES</h1>
     </header>
     <main>
-        <section class="animacion_1">
+        <section class="animacion_1" id="section1">
             <h2>ANIMACION1 ROTAR</h2> 
             <img class="img1" src="C:\Users\PILARES2\Desktop\Animaciones\img\planeta.jfif" alt = "astro">;
         </section>
 
-        <section class="animacion_2">
+        <section class="animacion_2" id="section2">
             <h2>ANIMACION2</h2> 
            <p class="animacion"> ARMANDO RIVERA</p>
         </section>
 
-        <section class="animacion_3">
+        <section class="animacion_3" id="section3">
             <h2>ANIMACION3</h2> 
         </section>
 
-        <section class="animacion_4">
+        <section class="animacion_4" id="section4">
             <h2 class="olivetti">ANIMACION_4 OLIVETTI</h2> 
         </section>
 
-        <section class="animacion_5">
+        <section class="animacion_5" id="section5">
             <h2>ANIMACION5</h2> 
             <img class="img2" src="C:\Users\PILARES2\Desktop\Animaciones\img\planeta_2.jfif" alt = "astro">;
         </section>
@@ -50,7 +50,6 @@
     </main>
 </body>
 </html>
-
 
 
 
@@ -226,6 +225,6 @@ li:hover{
 
 **********ZIP**********
 
-[Animaciones.zip](https://github.com/Armando573/Diseno_Web/files/10419186/Animaciones.zip)
 
+[Animaciones.zip](https://github.com/Armando573/Diseno_Web/files/10473137/Animaciones.zip)
 
